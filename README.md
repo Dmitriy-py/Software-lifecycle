@@ -46,8 +46,7 @@
 
 <img width="1920" height="1080" alt="Снимок экрана (1997)" src="https://github.com/user-attachments/assets/c4a4c5d8-56bf-4ec3-b0f0-117ec9c605b4" />
 
-<img width="1920" height="1080" alt="Снимок экрана (1998)" src="https://github.com/user-attachments/assets/a1cfbec9-b9c1-435f-8261-3b0f6c4e5451" />
-
+<img width="1920" height="1080" alt="Снимок экрана (1999)" src="https://github.com/user-attachments/assets/c9c9225d-1f03-4a8e-b522-966fa897c1f1" />
 
 
 
